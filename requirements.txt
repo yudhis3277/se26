@@ -1,6 +1,9 @@
 streamlit
 pandas
 requests
+plotly
 plotly.express
-plotly.graph_objects
 lxml
+openpyxl
+xlsxwriter
+pyarrow
